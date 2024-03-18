@@ -11,7 +11,7 @@ Thanks for checking out this front-end coding challenge.
 **To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
 
 ## Desktop Preview
-./design/desktop-design.jpg
+design\desktop-design.jpg
 
 ## The challenge
 
