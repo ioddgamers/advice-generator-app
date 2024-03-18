@@ -11,7 +11,8 @@ Thanks for checking out this front-end coding challenge.
 **To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
 
 ## Desktop Preview
-design\desktop-design.jpg
+![desktop-design](https://github.com/ioddgamers/advice-generator-app/assets/25953991/fd25abe7-c75f-46c2-9a1b-2b8783b2eff5)
+
 
 ## The challenge
 
